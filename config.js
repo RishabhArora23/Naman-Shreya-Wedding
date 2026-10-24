@@ -8,7 +8,7 @@ const WEDDING_DATE = "2026-12-14T16:00:00+05:30";
 
 // 2) Your Google Apps Script "Web app URL" (see README.md, Part 2).
 //    Paste it between the quotes.
-const GOOGLE_FORM_LINK = "";
+const GOOGLE_FORM_LINK = "https://docs.google.com/forms/d/e/1FAIpQLSdrG8Z8ScvXxS4D5FIPaVMXUH8DLLZWVGHVOJfZU5sJIJmR5A/viewform?usp=pp_url&entry.1265263494=NAME&entry.768240896=ATTENDING&entry.775615921=GUESTS&entry.1689956636=NOTE";
 
 // 3) Background song. Put the mp3 file in the "music" folder with this exact name.
 //    Leave empty ("") for no music.
